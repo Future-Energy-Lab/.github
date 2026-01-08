@@ -4,6 +4,4 @@ Willkommen auf dem GitHub Account des Future Energy Lab der Deutschen Energie-Ag
 
 Weitere Infos zu den Projekten sowie Ansprechpersonen finden Sie auf [future-energy-lab.de](https://future-energy-lab.de/). 
 
-## Weitere Projekte 
-
 
