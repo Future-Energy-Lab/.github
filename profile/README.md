@@ -8,6 +8,6 @@ Weitere Infos zu den Projekten sowie Ansprechpersonen finden Sie auf [future-ene
 
 Einige unserer Projekte werden über eigene GitHub Accounts oder die unserer Partner veröffentlicht: 
 
-*[Referenzsystem für den Datenaustausch im Energiesektor (Re4DE)](https://github.com/Re4DE): Data Space Komponenten
+* [Referenzsystem für den Datenaustausch im Energiesektor (Re4DE)](https://github.com/Re4DE): Data Space Komponenten
 
 
