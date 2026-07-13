@@ -10,5 +10,6 @@ Einige unserer Projekte werden über eigene GitHub Accounts oder die unserer Par
 
 * [Referenzsystem für den Datenaustausch im Energiesektor (Re4DE)](https://github.com/Re4DE): Data Space Komponenten
 * [Urban Data Space Platform der klimakommune.digital](https://ht-ag.gitlab.io/production-clusters/hagen/documentation/): Urbane Datenplattform
+* [ECO zone – Energiesteuerung und Emissionsreduktion durch zonale Analysen](https://github.com/ECO-zone): marginales zonales CO2-Emissionsmodells für das deutsche Stromnetz
 
 
